@@ -80,6 +80,7 @@ function leftArrow() {
 /******************************************************************************************************/
 function previewFive() {
     
+    //locate first element where the tag is article assign to a variable
     var articleEl = document.getElementsByTagName("article")[0];
     
     // create figure and img elements for fifth image
@@ -91,6 +92,7 @@ function previewFive() {
     lastFigure.style.right = "45px";
     lastFigure.style.top = "67px";
     
+    //create img element for the fifth image
     var lastImage = document.createElement("img");
     lastImage.width = "240";
     lastImage.height = "135";
