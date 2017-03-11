@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Chelsea Mohammed)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I built an application that displays a series of photos in a photo gallery.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mchelsea.github.io/lesson6_javascript3/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to create a new figure element and assign it to a variable.)
+2. (I learned how to use an element's style attributes to set values for its CSS style properties.)
+3. (I learned how to clone nodes similar to existing nodes without creating and configuring new elements.)
